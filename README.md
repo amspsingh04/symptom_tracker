@@ -1,1 +1,0 @@
-# symptom_tracker
